@@ -25,7 +25,6 @@ header {
     padding-bottom: 20px;
     background-color: black;
     text-align: center;
-    margin: -8px;
 }
 
 header > h1 {
@@ -33,7 +32,6 @@ header > h1 {
     font-variant: small-caps;
     font-family: var(--fonte2);
     color: white;
-    padding-top: 20px;
     margin-bottom: 0px;
     font-size: 10vw;
 }
@@ -63,7 +61,6 @@ section > p {
 section.normal {
     background-color: white;
     box-shadow: 8px -1px 13px 5px black;
-    margin: -8px;
 }
 
 section.imagem {
@@ -111,10 +108,9 @@ footer {
     text-align: center;
     color: white;
     padding: 10px;
-    margin: -8px;
 }
 
 footer > p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15px;
+    font-size: 2vw;
 }
